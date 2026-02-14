@@ -58,6 +58,19 @@ O foco da entrega está na aba Dashboard, que sintetiza toda a análise realizad
 
 ---
 
+## 🤝 Contribuições
+
+Sugestões de melhorias são bem-vindas.
+Caso identifique oportunidades de aprimoramento, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+---
+
+## 📜 Licença
+
+Este projeto é disponibilizado sob a [Licença MIT](LICENSE), permitindo uso, modificação e distribuição, desde que mantidos os devidos créditos ao autor.
+
+---
+
 ## 👤 Autor
 
 Alex Laudiano - Analista de Dados
